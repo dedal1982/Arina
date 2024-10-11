@@ -1,3 +1,15 @@
+@font-face {
+  font-family: "MinionPro";
+  src: url("../fonts/minionpro-regular.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "KudryWeirdHeadline";
+  src: url("../fonts/kudry_weird-headline.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
 * {
   margin: 0;
   padding: 0;
@@ -30,15 +42,31 @@ button {
   flex-direction: column;
   margin: 0 auto;
   padding: 0;
-  font-family: "Heebo", sans-serif;
+  font-family: "KudryWeirdHeadline", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
 }
-.container {
-  max-width: 1000px;
+.header {
   width: 100%;
-  margin: 0 auto;
+  height: 84px;
+  display: flex;
+  background: #ffe5ed;
+}
+.header__wrapper {
+  margin: auto 56px auto auto;
+}
+.header__nav {
+  display: flex;
+  align-items: center;
+  gap: 45px;
+}
+.header__link {
+  font-family: "MinionPro", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #000;
 }
