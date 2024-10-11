@@ -222,6 +222,35 @@ button {
 .works__title {
   font-weight: 300;
   font-size: 64px;
-  line-height: 82.88pxpx;
+  line-height: 82.88px;
+  color: #000;
+}
+/*---task---*/
+.task {
+  width: 100%;
+}
+.task__wrapper {
+  padding: 92px 85px;
+  box-sizing: border-box;
+  display: flex;
+}
+.task__text {
+  max-width: 464px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+}
+.task__title {
+  font-weight: 300;
+  font-size: 64px;
+  line-height: 82.88px;
+  color: #000;
+}
+.task__subtitle {
+  font-family: "MinionPro", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28.8px;
   color: #000;
 }
