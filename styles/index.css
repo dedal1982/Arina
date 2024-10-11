@@ -209,3 +209,19 @@ button {
 .about__links a:hover {
   opacity: 0.5;
 }
+/*---works---*/
+.works {
+  width: 100%;
+}
+.works__wrapper {
+  padding: 86px 64px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+}
+.works__title {
+  font-weight: 300;
+  font-size: 64px;
+  line-height: 82.88pxpx;
+  color: #000;
+}
