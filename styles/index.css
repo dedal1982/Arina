@@ -70,3 +70,40 @@ button {
   line-height: 24px;
   color: #000;
 }
+/*---hero---*/
+.hero {
+  width: 100%;
+}
+.hero__wrapper {
+  padding: 78px 71px 95px 71px;
+  box-sizing: border-box;
+  display: flex;
+  gap: 46px;
+}
+.hero__image {
+  width: 437px;
+  height: 514px;
+  border-radius: 10px;
+}
+.hero__text {
+  max-width: 713px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  gap: 84px;
+  margin-top: 15px;
+}
+.hero__title {
+  font-weight: 300;
+  font-size: 64px;
+  line-height: 82.88px;
+  color: #000;
+}
+.hero__subtitle {
+  font-family: "MinionPro", sans-serif;
+  font-weight: 400;
+  font-size: 36px;
+  line-height: 43.2px;
+  color: #000;
+}
