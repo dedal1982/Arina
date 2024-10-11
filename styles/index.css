@@ -182,5 +182,30 @@ button {
   gap: 25px;
   padding: 18px 23px 11px 53px;
 }
-.about__subtitle-list {
+.about__right-bottom {
+  width: 100%;
+  height: 197px;
+  border: 5px solid #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 15px 23px 11px 34px;
+}
+.about__links {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  font-family: "MinionPro", sans-serif;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28.8px;
+  color: #000;
+}
+.about__links a {
+  color: #000;
+  transition: all 0.3s ease-out;
+}
+.about__links a:hover {
+  opacity: 0.5;
 }
