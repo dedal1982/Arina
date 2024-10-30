@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1920px" height="1080px" viewBox="0 0 1920 1080">
+<defs>
+<image id="____png" x="0" y="0" width="3126" height="2083" xlink:href="./изображения/____png.png"/>
+
+<image id="________2_png________" x="0" y="0" width="287" height="287" xlink:href="./изображения/________2_png________.png"/>
+
+<image id="_______1_png________" x="0" y="0" width="874" height="321" xlink:href="./изображения/_______1_png________.png"/>
+
+<image id="_______png________" x="0" y="0" width="610" height="871" xlink:href="./изображения/_______png________.png"/>
+
+<image id="_______png" x="0" y="0" width="832" height="832" xlink:href="./изображения/_______png.png"/>
+</defs>
+
+<g transform="matrix( 0.6147918701171875, 0, 0, 0.52081298828125, 0,-4) ">
+<use xlink:href="#____png"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 1253.65,641.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#________2_png________"/>
+</g>
+</g>
+
+<g transform="matrix( 0.9803466796875, 0.1972198486328125, -0.1972198486328125, 0.9803466796875, 113.3,529.2) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_______1_png________"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 155.6,53) ">
+<g transform="matrix( 0.9659271240234375, -0.2587890625, 0.2587890625, 0.9659271240234375, -407.3,-341.7) ">
+<use xlink:href="#_______png________"/>
+</g>
+</g>
+
+<g transform="matrix( 0.9929962158203125, 0.321044921875, -0.321044921875, 0.9929962158203125, 1312.45,-226.6) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#_______png"/>
+</g>
+</g>
+</svg>

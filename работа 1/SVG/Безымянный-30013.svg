@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="1920px" height="1080px" viewBox="0 0 1920 1080">
+<defs>
+<image id="FL_3_jpg" x="0" y="0" width="117" height="191" xlink:href="./изображения/FL_3_jpg.jpg"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 902,444) ">
+<use xlink:href="#FL_3_jpg"/>
+</g>
+</svg>
